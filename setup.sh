@@ -2,7 +2,6 @@
 
 echo "\
 [general]\n\
-email = \"email@domain\"\n\
 email = \"21f1001562@student.onlinedegree.iitm.ac.in\"\n\
 " > ~/.streamlit/credentials.toml
 
